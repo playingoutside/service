@@ -59,7 +59,7 @@
     "semver": "^5.4.1",
     "serialize-error": "^2.1.0",
     "spdx-expression-parse": "github:clearlydefined/spdx-expression-parse.js#fork",
-    "spdx-license-list": "^6.6.0",
+    "spdx-license-list": "^6.8.0",
     "swagger-ui-express": "^4.0.1",
     "throat": "^4.1.0",
     "tiny-attribution-generator": "0.1.2",
